@@ -1,4 +1,4 @@
-👋 Hello World! I'm Sali, a passionate developer and code enthusiast. My journey in the world of software involves crafting elegant solutions to complex problems and constantly learning to stay ahead in this ever-evolving tech landscape. I specialize in Frontend Development, and you'll often find me immersed in projects that challenge and inspire me.
+👋 Hello World! I'm Sali, a passionate developer and code enthusiast. I specialize in Frontend Development, and you'll often find me immersed in projects that challenge and inspire me.
 
 🚀 Currently, I'm searching for a Frontend Developer role, ideally writing React or pure Javascript, I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. In my free time, I love to explore new technologies, contribute to open-source projects.
 
